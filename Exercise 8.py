@@ -8,4 +8,4 @@ for i in range(1, rows + 1):
         
         print(i, end=" ")  # Print the current row number
         
-    
+    print()  # Move to the next line after each row
